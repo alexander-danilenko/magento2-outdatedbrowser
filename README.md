@@ -9,7 +9,7 @@ No prerequisites required except Magento2 installation.
 
 ## Installation
 
-1. Require composer package
+1. Require [composer package](https://packagist.org/packages/alexander-danilenko/magento2-outdatedbrowser)
     ```
     composer require alexander-danilenko/magento2-outdatedbrowser
     ```
