@@ -9,6 +9,9 @@
     "autoload": {
         "files": [
             "registration.php"
-        ]
+        ],
+        "psr-4": {
+            "FFWAgency\\OutdatedBrowser\\": ""
+        }
     }
 }
